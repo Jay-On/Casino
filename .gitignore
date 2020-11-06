@@ -3,3 +3,6 @@
 __pycache__
 venv
 .flaskenv
+test.py
+main.py
+python_data
